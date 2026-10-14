@@ -232,4 +232,4 @@ This repository serves as the official landing page for Bad Peggy. The software 
 **Get the most recent version of Bad Peggy today!**
 
 ---
-**Last updated:** 2026-10-14 13:15:35 UTC
+**Last updated:** 2026-10-14 18:16:06 UTC
